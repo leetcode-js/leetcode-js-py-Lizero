@@ -1,2 +1,2 @@
-# leetcode-js-py-weibin
+# leetcode-js-py-Lizero
 one leetcode one day
